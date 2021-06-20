@@ -1,0 +1,6 @@
+dev/neuroteam/ecs/TestComponent.java
+ dev.neuroteam.ecs.TestComponent
+dev/neuroteam/ecs/TestComponent2.java
+ dev.neuroteam.ecs.TestComponent2
+dev/neuroteam/ecs/SimpleTest.java
+ dev.neuroteam.ecs.SimpleTest
